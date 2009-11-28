@@ -1,0 +1,8 @@
+#!/usr/bin/ruby
+require 'rubygems'
+require 'placeheart'
+
+p = Placeheart.new
+
+url = p.google_maps_uri
+system("open '#{url}'")

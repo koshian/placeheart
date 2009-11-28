@@ -1,0 +1,12 @@
+History.txt
+Manifest.txt
+PostInstall.txt
+README.rdoc
+Rakefile
+lib/placeheart.rb
+bin/placeheart
+script/console
+script/destroy
+script/generate
+test/test_helper.rb
+test/test_placeheart.rb
